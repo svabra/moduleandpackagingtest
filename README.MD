@@ -1,10 +1,12 @@
-# RUND, DEBUG AND LAUNCH TEMPLATE
+# RUN, DEBUG AND LAUNCH HASSLE
 
 This project is for educational purpose only. It tries to solve the challenge of 
 - running and ...
 - debugging both ... 
 - code ...
 - and tests. 
+
+It uses Visual Studio Code to run tests
 
 ## (OK) Running the code from the CMD line
 1. navigate to the project root directoy

@@ -23,3 +23,8 @@ This project is for educational purpose only. It tries to solve the challenge of
 1. navigate to "Run and Debug" Window
 2. select the "Python: Module" and press the start button
 3. ERROR: No module named 'code.car'; 'code' is not a package
+
+## (FAILS) Debugging the code with the launcher/F5 (Visual Studio Code)
+1. navigate to "Run and Debug" Window
+2. select the "Python: Debug Tests" and press the start button
+3. ERROR: No module named 'code.car'; 'code' is not a package
